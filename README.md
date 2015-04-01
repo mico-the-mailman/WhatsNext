@@ -10,4 +10,4 @@ Need to add:
 
 a bit further in the future would be some way of determining how long it actually takes to get to class so there is an alert that says go to class now.
 
-thats all for now.
+Thats all for now.
